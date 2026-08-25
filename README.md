@@ -89,3 +89,4 @@ Senha: senha123
 - Não foi utilizado Composer para gerenciar dependências.
 - O envio de e-mail usa `mail()` do PHP e depende da configuração do ambiente.
 - O projeto foi desenvolvido com foco em funcionalidade e estrutura MVC simples, conforme a proposta da avaliação.
+# -projeto_avaliacao_php
